@@ -1,0 +1,9 @@
+C:\Users\Nik\source\repos\WeekDayTray\WeekDayTray\bin\Debug\WeekDayTray.exe.config
+C:\Users\Nik\source\repos\WeekDayTray\WeekDayTray\bin\Debug\WeekDayTray.exe
+C:\Users\Nik\source\repos\WeekDayTray\WeekDayTray\bin\Debug\WeekDayTray.pdb
+C:\Users\Nik\source\repos\WeekDayTray\WeekDayTray\obj\Debug\WeekDayTray.Properties.Resources.resources
+C:\Users\Nik\source\repos\WeekDayTray\WeekDayTray\obj\Debug\WeekDayTray.csproj.GenerateResource.cache
+C:\Users\Nik\source\repos\WeekDayTray\WeekDayTray\obj\Debug\WeekDayTray.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\WeekDayTray\WeekDayTray\obj\Debug\WeekDayTray.exe
+C:\Users\Nik\source\repos\WeekDayTray\WeekDayTray\obj\Debug\WeekDayTray.pdb
+C:\Users\Nik\source\repos\WeekDayTray\WeekDayTray\obj\Debug\WeekDayTray.Form1.resources
